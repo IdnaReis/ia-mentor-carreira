@@ -1,3 +1,4 @@
 # Dados de exemplo
 Aqui ficam os arquivos de dados usados para testes e experimentos.
-data/.gitkeep
+# Código-fonte
+Esta pasta contém os arquivos principais do projeto, incluindo `main.py` e funções auxiliares.
