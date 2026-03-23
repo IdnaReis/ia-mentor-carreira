@@ -1,5 +1,12 @@
 
-# 🚀 IA Mentor de Carreira: Descubra Seu Futuro em Tech
+ # 🚀 IA Mentor de Carreira  
+### Descubra Seu Futuro em Tech com Inteligência Artificial
+
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![QA](https://img.shields.io/badge/foco-QA-green)
+
 
 ## 📌 Sobre o Projeto
 O **IA Mentor de Carreira** é um projeto desenvolvido com foco em apoiar pessoas na transição e evolução profissional na área de tecnologia.
@@ -71,22 +78,21 @@ Este projeto está sendo estruturado com foco em boas práticas de QA, incluindo
 
 ## 📈 Próximos Passos
 
-
- - Criar modelos de IA para análise de perfil profissional
- - Implementar interface (Streamlit ou Web)
- - Adicionar trilhas de aprendizado em tecnologia
- - Criar testes automatizados
- -  Melhorar cobertura de testes
+ - [ ] Criar modelos de IA para análise de perfil profissional  
+- [ ] Implementar interface (Streamlit ou Web)  
+- [ ] Adicionar trilhas de aprendizado em tecnologia  
+- [ ] Criar testes automatizados  
+- [ ] Melhorar cobertura de testes
+- [ ] 
 
 ## 🤝 Contribuições
 
-Contribuições são bem-vindas!
 
-Faça um fork do projeto
-Crie uma branch (git checkout -b feature/minha-feature)
-Faça commit das suas alterações
-Envie um push
-Abra um Pull Request
+1. Faça um fork do projeto  
+2. Crie uma branch (`git checkout -b feature/minha-feature`)  
+3. Faça commit das suas alterações  
+4. Envie um push  
+5. Abra um Pull Request  
 
 ## 👩‍💻 Autora
 
